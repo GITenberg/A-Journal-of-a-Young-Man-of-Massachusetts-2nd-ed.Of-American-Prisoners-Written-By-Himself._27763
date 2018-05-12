@@ -1,0 +1,46 @@
+_repo: A-Journal-of-a-Young-Man-of-Massachusetts-2nd-ed.Of-American-Prisoners-Written-By-Himself._27763
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Waterhouse, Benjamin
+    birthdate: 1754
+    deathdate: 1846
+    gutenberg_agent_id: '32895'
+    url: http://www.gutenberg.org/2009/agents/32895
+description: ''
+gutenberg_issued: '2009-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27763'
+  lccn: '02017203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'United States -- History -- War of 1812 -- Prisoners and prisons'
+- !lcsh 'Dartmoor Prison'
+title: 'A Journal of a Young Man of Massachusetts, 2nd ed.
+
+  Late A Surgeon On Board An American Privateer, Who Was
+
+  Captured At Sea By The British, In May, Eighteen Hundred
+
+  And Thirteen, And Was Confined First, At Melville Island,
+
+  Halifax, Then At Chatham, In England ... And Last, At
+
+  Dartmoor Prison. Interspersed With Observations, Anecdotes
+
+  And Remarks, Tending To Illustrate The Moral And Political
+
+  Characters Of Three Nations. To Which Is Added, A Correct
+
+  Engraving Of Dartmoor Prison, Representing The Massacre
+
+  Of American Prisoners, Written By Himself.'
+url: http://www.gutenberg.org/ebooks/27763
